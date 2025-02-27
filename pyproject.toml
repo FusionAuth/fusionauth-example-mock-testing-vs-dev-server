@@ -1,7 +1,7 @@
 [project]
-name = "fusionauth-example-mock-testing-vs-development-server"
+name = "fusionauth-example-mock-testing-vs-dev-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "Example repo for the Why mocking sucks post illustrating testing FusionAuth with mocking vs with the development server"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
